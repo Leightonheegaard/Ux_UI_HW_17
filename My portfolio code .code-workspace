@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../../.."
+	},
+	{
+		"path": "../Ux_UI_HW_17"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Ux_UI_HW_17"
+  }
+}
